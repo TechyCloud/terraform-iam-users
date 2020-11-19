@@ -11,7 +11,7 @@ In this article, We are going to use the Terraform to create the IAM users with 
 
 ### IAM User with Admin Privilege
 
-Download the Terraform code [here](https://github.com/TechyCloud/terraform-iam-users.git) to create the IAM user with Admin access.  
+Download the Terraform code [here](https://github.com/TechyCloud/terraform-iam-users/archive/main.zip) to create the IAM user with Admin access.  
 
 After downloaded the code you need to update the variables in **main.tf** file in **tf_adminuser** folder. 
 
