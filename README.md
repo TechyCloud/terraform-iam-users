@@ -29,6 +29,8 @@ Once succeed, You can run the below apply command to create the IAM users in con
 
 > terraform apply
 
+**!! It's Done. Now, You have successfully create the IAM user with Admin privileges with terraform !!**
+
 
 ### IAM User with ReadOnly Privilege
 
@@ -49,6 +51,6 @@ Once succeed, You can run the below apply command to create the IAM users in con
 > terraform apply
 
 
-**!! Now, You have successfully create the IAM user with Admin & ReadOnly privileges with terraform !!**
+**!! Now, You have successfully create the IAM user with ReadOnly privileges with terraform !!**
 
 ###### Thanks for using this Block.
